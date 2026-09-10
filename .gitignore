@@ -1,0 +1,13 @@
+# Local / machine-specific
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Build outputs
+build/
+.gradle/
+.cxx/
+*.apk
+*.apks
+*.jks
